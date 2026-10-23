@@ -1,5 +1,5 @@
 <h1>Hey there, I'm <a href="https://github.com/rodlgdev">Rodrigo Lopez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"></h1>
-## About Me
+
 
 I'm a **Software Engineering student at Universidad Autónoma de Nuevo León (UANL)** with a strong interest in **Data Engineering, databases, and software development**.
 

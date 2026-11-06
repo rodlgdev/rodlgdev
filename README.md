@@ -27,13 +27,3 @@ I'm passionate about continuous learning, solving technical problems, and explor
 
 <br>
 
-  
-## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodlgdev&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodlgdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodlgdev&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
